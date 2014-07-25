@@ -1,4 +1,4 @@
-Plan to implement AP Clustering algorithm.
+Plan to implement AP Clustering algorithm and other clustering algorithms.
 
 ## Preferences:
 
